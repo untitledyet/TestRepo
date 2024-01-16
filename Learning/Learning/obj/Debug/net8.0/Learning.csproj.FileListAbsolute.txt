@@ -1,0 +1,15 @@
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/TestRepo/Learning/Learning/bin/Debug/net8.0/Learning
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/TestRepo/Learning/Learning/bin/Debug/net8.0/Learning.deps.json
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/TestRepo/Learning/Learning/bin/Debug/net8.0/Learning.runtimeconfig.json
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/TestRepo/Learning/Learning/bin/Debug/net8.0/Learning.dll
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/TestRepo/Learning/Learning/bin/Debug/net8.0/Learning.pdb
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/TestRepo/Learning/Learning/obj/Debug/net8.0/Learning.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/TestRepo/Learning/Learning/obj/Debug/net8.0/Learning.AssemblyInfoInputs.cache
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/TestRepo/Learning/Learning/obj/Debug/net8.0/Learning.AssemblyInfo.cs
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/TestRepo/Learning/Learning/obj/Debug/net8.0/Learning.csproj.CoreCompileInputs.cache
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/TestRepo/Learning/Learning/obj/Debug/net8.0/Learning.sourcelink.json
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/TestRepo/Learning/Learning/obj/Debug/net8.0/Learning.dll
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/TestRepo/Learning/Learning/obj/Debug/net8.0/refint/Learning.dll
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/TestRepo/Learning/Learning/obj/Debug/net8.0/Learning.pdb
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/TestRepo/Learning/Learning/obj/Debug/net8.0/Learning.genruntimeconfig.cache
+/Users/meskhdav/Library/CloudStorage/OneDrive-TheStarsGroup/Desktop/TestRepo/Learning/Learning/obj/Debug/net8.0/ref/Learning.dll
